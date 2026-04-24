@@ -6,7 +6,7 @@ export const CONTACT_INFO = {
   phone2: "9679481018",
   email: "technologies@norixel.in",
   address: "NS Road, Tarakeswar, Hooghly, 712410",
-  whatsapp_number: "917679975939", // Assuming Indian (+91) code for WhatsApp based on phone format
+  whatsapp_number: "919679481018", // Assuming Indian (+91) code for WhatsApp based on phone format
 };
 
 export const SERVICES = [
